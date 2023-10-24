@@ -1,0 +1,25 @@
+.icp {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.faa {
+    margin-top: 5px;
+    color: #790f2a;
+}
+
+.icp-text {
+    font-size: 14px;
+    top: 0;
+    padding-top: 0px;
+}
+
+.icon-text-container {
+  display: flex;
+  vertical-align: top;
+  gap: 15px;
+  flex-basis: 100%;
+  max-width: 300px;
+  height: 30px;
+  margin-left: 30px;
+}

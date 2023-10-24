@@ -1,0 +1,29 @@
+.heading {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+c-content {
+  font-family: "Poppins", sans-serif;
+  left: 0;
+  font-weight: 400;
+  margin-left: 0;
+  padding-left: 5px;
+  line-height: 30px;
+}
+.content {
+  font-family: "Poppins", sans-serif;
+  left: 0;
+  font-weight: 400;
+  margin-left: 0;
+  padding-left: 5px;
+  line-height: 30px;
+}
+
+
+.target-audience-container {
+  max-width: 600px;
+  margin-left: 0;
+  text-align: justify;
+  text-justify: inter-word;
+}
