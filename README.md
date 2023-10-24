@@ -16,7 +16,7 @@ ProLearn is a modern Learning Management System designed to make online educatio
 
 **Demo:**
 
-Explore the ProLearn frontend by visiting our [demo]([link_to_demo](https://pro-learn-six.vercel.app/)). 
+Explore the ProLearn frontend by visiting our [demo]([https://pro-learn-six.vercel.app/]). 
 
 **Getting Started:**
 
@@ -27,17 +27,14 @@ Clone this repository:
 
 Change your current directory to the ProLearn project folder:
 
-```bash
-cd ProLearn-frontend
+   cd ProLearn-frontend
 
 Install the required dependencies:
 
-```bash
-npm install
+   npm install
 
 Configure your environment variables.
 
 Start the development server:
 
-```bash
-npm start
+   npm start
