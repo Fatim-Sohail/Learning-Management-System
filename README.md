@@ -16,7 +16,7 @@ ProLearn is a modern Learning Management System designed to make online educatio
 
 **Demo:**
 
-Explore the ProLearn frontend by visiting our [demo]([https://pro-learn-six.vercel.app/]). 
+Explore the ProLearn frontend by visiting our [demo](https://pro-learn-six.vercel.app/). 
 
 **Getting Started:**
 
